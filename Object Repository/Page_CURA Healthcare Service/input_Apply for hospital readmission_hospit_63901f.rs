@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Username_username</name>
+   <name>input_Apply for hospital readmission_hospit_63901f</name>
    <tag></tag>
-   <elementGuidId>b6b81a55-097e-424c-bb09-f8ac2869142a</elementGuidId>
+   <elementGuidId>41a619e5-ec93-4656-8a63-ded1d7b2cfc8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#txt-username</value>
+         <value>#chk_hospotal_readmission</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='txt-username']</value>
+         <value>//input[@id='chk_hospotal_readmission']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Username&quot;i</value>
+         <value>internal:label=&quot;Apply for hospital readmission&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,94 +29,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0511f75b-86d4-4945-8675-3124d53f2134</webElementGuid>
+      <webElementGuid>c272a6af-4ce9-4641-bf7f-67c0fde9c6cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>3cd88662-6d1d-4be9-a67c-1a4a7f4e18ee</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>1ded7bb3-bf60-4ca9-b9de-b0e06f213fe0</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>4d1d8a21-ef22-43db-b2b1-9b443a1c4bf9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>txt-username</value>
-      <webElementGuid>b7a8e897-9413-407a-86fa-09339ff0bcd5</webElementGuid>
+      <value>chk_hospotal_readmission</value>
+      <webElementGuid>8a5f48d5-8db9-430b-a4ce-0e2a2f5c2963</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>d6bc1e90-793b-40c3-afb4-8cd3c3ce8665</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Username</value>
-      <webElementGuid>c5c9b5d8-3aaf-484a-bd38-5a3eaaddd3dd</webElementGuid>
+      <value>hospital_readmission</value>
+      <webElementGuid>fb34fbc0-d05f-4fe5-8c27-4d3343f3c695</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
+      <name>value</name>
       <type>Main</type>
-      <value>off</value>
-      <webElementGuid>bbffa820-5e56-4819-8f99-751b0f1f3ed8</webElementGuid>
+      <value>Yes</value>
+      <webElementGuid>0f23b66e-79f2-421c-a78a-07c4e9a79921</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;txt-username&quot;)</value>
-      <webElementGuid>97e7947d-cf49-4531-aa7c-381678797eee</webElementGuid>
+      <value>id(&quot;chk_hospotal_readmission&quot;)</value>
+      <webElementGuid>047e5e6b-9b1c-4e91-b7a9-963b1b495502</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='txt-username']</value>
-      <webElementGuid>515bc2ca-21bb-46f3-a72b-bab893ac49a2</webElementGuid>
+      <value>//input[@id='chk_hospotal_readmission']</value>
+      <webElementGuid>3e6f037d-4b7a-4fc1-a39f-42b912e9e3c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='login']/div/div/div[2]/form/div[2]/div/input</value>
-      <webElementGuid>81dcf426-b7ee-4e25-935b-036e9c1a4fcc</webElementGuid>
+      <value>//section[@id='appointment']/div/div/form/div[2]/div/label/input</value>
+      <webElementGuid>8259acb8-ba50-4126-afaa-49089aeec63e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>12e89efa-e6ea-449f-b20c-e10c86dcdfc1</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>a8e67dc0-37b8-47ff-bd28-a00f537ff077</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'txt-username' and @name = 'username' and @placeholder = 'Username']</value>
-      <webElementGuid>7b85a03e-9ec2-41f0-9367-784393981606</webElementGuid>
+      <value>//input[@type = 'checkbox' and @id = 'chk_hospotal_readmission' and @name = 'hospital_readmission']</value>
+      <webElementGuid>23da95c7-78e7-4701-9853-0a3eeeae756d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC5_Book Appointment without ReAdmission</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4fa8b6e3-6464-4a0d-9891-9a33777b68f0</testCaseGuid>
+</TestCaseEntity>

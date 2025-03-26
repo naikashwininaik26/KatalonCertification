@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>p_Login failed Please ensure the username a_eb55b5</name>
+   <name>p_Tokyo CURA Healthcare Center</name>
    <tag></tag>
-   <elementGuidId>4fd75c69-8ffa-4c61-bfa6-080588937dba</elementGuidId>
+   <elementGuidId>13163b47-6dde-4550-bd06-5225f8925a08</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>p.lead.text-danger</value>
+         <value>#facility</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//section[@id='login']/div/div/div/p[2]</value>
+         <value>//p[@id='facility']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;Login failed! Please ensure the username and password are valid.&quot;i</value>
+         <value>internal:text=&quot;Tokyo CURA Healthcare Center&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,94 +29,102 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>4848626a-1383-4b0a-a977-e9acabf6ad91</webElementGuid>
+      <webElementGuid>9c5d3ffa-ed9c-4aea-a12a-a98caf45e222</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>id</name>
       <type>Main</type>
-      <value>lead text-danger</value>
-      <webElementGuid>960b60a7-292f-4649-ad01-cb95df2d0f3a</webElementGuid>
+      <value>facility</value>
+      <webElementGuid>93a70c49-6c9b-4d5d-b474-407c94aea528</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login failed! Please ensure the username and password are valid.</value>
-      <webElementGuid>39eeca34-1557-4f4c-9650-eeb952550905</webElementGuid>
+      <value>Tokyo CURA Healthcare Center</value>
+      <webElementGuid>25db2ecc-7146-4ca0-ad41-4bc5e588b826</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 text-center&quot;]/p[@class=&quot;lead text-danger&quot;]</value>
-      <webElementGuid>07fb68a3-b03c-460d-8c46-4685ca06f915</webElementGuid>
+      <value>id(&quot;facility&quot;)</value>
+      <webElementGuid>235126b3-1e57-40ae-b8af-94b426c86382</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='facility']</value>
+      <webElementGuid>a84ad9dd-7236-4ef0-a5de-53b20f6cb3f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='login']/div/div/div/p[2]</value>
-      <webElementGuid>88ce3f08-c2fa-4792-a397-1bfbc06b82db</webElementGuid>
+      <value>//section[@id='summary']/div/div/div[2]/div[2]/p</value>
+      <webElementGuid>39ec448a-ea52-45bb-b6fb-7e927b7d0fe0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::p[2]</value>
-      <webElementGuid>f93b2d97-4dfb-4197-bd72-f59f7403de3d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facility'])[1]/following::p[1]</value>
+      <webElementGuid>f2094d76-8172-409b-9dac-ad34d1fae526</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/following::p[2]</value>
-      <webElementGuid>ab84d365-9d40-4fd4-a2ef-7e8e8dcc70a5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appointment Confirmation'])[1]/following::p[2]</value>
+      <webElementGuid>7d1e1b0b-db9e-4c4f-895b-e5c5d300ca3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo account'])[1]/preceding::p[1]</value>
-      <webElementGuid>5815cec1-b644-40ba-9394-db63fd7a27bf</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply for hospital readmission'])[1]/preceding::p[1]</value>
+      <webElementGuid>791c665f-8f54-4d46-b589-6361144e64e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::p[1]</value>
-      <webElementGuid>c1b8e841-2248-451e-a610-444062e22e1c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthcare Program'])[1]/preceding::p[2]</value>
+      <webElementGuid>e9336b54-056f-44a0-af39-3e9fba7ccb9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Login failed! Please ensure the username and password are valid.']/parent::*</value>
-      <webElementGuid>764157f6-aa58-49b9-acdb-45f84f40cbda</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Tokyo CURA Healthcare Center']/parent::*</value>
+      <webElementGuid>7400ce8b-fccf-495c-a3ef-1596e12c579b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//p[2]</value>
-      <webElementGuid>fdd3bd5c-341a-465f-8efc-3af2b6fe53bc</webElementGuid>
+      <value>//div[2]/p</value>
+      <webElementGuid>31cd628c-b27b-4d58-b542-309bf41e3716</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//p[(text() = 'Login failed! Please ensure the username and password are valid.' or . = 'Login failed! Please ensure the username and password are valid.')]</value>
-      <webElementGuid>c5bc7740-c1e6-4248-a6c1-4e11ac01c8f0</webElementGuid>
+      <value>//p[@id = 'facility' and (text() = 'Tokyo CURA Healthcare Center' or . = 'Tokyo CURA Healthcare Center')]</value>
+      <webElementGuid>369bd3ca-74ad-44d2-b3b7-d332c0e9db89</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

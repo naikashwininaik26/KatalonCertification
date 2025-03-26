@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC4_Book Appointment with ReAdmission</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90998799-7bf4-4b31-aa69-c239b2c7be3a</testCaseGuid>
+</TestCaseEntity>
