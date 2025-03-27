@@ -1,0 +1,3 @@
+{"testCaseName":"Test Cases/TC1_Login with invalid creds","testCaseId":"Test Cases/TC1_Login with invalid creds","iterationVariableName":""}
+{"testCaseName":"Test Cases/TC2_Login with valid creds","testCaseId":"Test Cases/TC2_Login with valid creds","iterationVariableName":""}
+{"testCaseName":"Test Cases/TC3_Login with empty details","testCaseId":"Test Cases/TC3_Login with empty details","iterationVariableName":""}
